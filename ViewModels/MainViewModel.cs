@@ -7,7 +7,7 @@ namespace Uge_27_project.ViewModels
 {
     public class MainViewModel : INotifyPropertyChanged
     {
-        public string Greeting => "Lets do some math!";
+        public string Greeting => "Lets do some math! test";
 
         private string _inputText;
 
